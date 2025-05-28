@@ -28,7 +28,7 @@ export default function Oxycoupage() {
           offers={offers}
         >
           <p className="text-justify leading-relaxed">
-            L'<span className="font-bold">ocycoupage</span> est un procédé de
+            L'<span className="font-bold">oxycoupage</span> est un procédé de
             découpe de métaux par oxydation. L’acier est chauffé jusqu’à sa
             température de fusion, un jet d’oxygène pur permet la découpe des
             pièces en acier. Ce procédé permet de découper des plaques d’aciers
